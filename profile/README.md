@@ -1,4 +1,4 @@
-Here’s how you could answer these questions for the Sagelyf README:
+
 
 🙋‍♀️ A short introduction - what is your organization all about?
 
@@ -36,4 +36,3 @@ At Sagelyf, we believe in fueling the mind and body. Our team loves a mix of tra
 
 🧙 Remember, you can do mighty things with the power of Markdown
 
-Feel free to customize the text further to match your organization’s personality and goals!
